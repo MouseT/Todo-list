@@ -9,5 +9,5 @@
   2. npm install
   3. npm run serve
 
-По умолчанию приложение работает на localhost:8080
+GitPages: https://mouset.github.io/Todo-list/
 
