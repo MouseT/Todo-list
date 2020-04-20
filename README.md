@@ -1,13 +1,6 @@
 # Todo-list
 
-Небольшое приложение на Vue, для создания и редактирования списков дел. Пока без сохранения, в доработке.
+A small application on Vue, for creating and editing to-do lists. So far without saving, in finalization.
 
-
-# Для использования:
-
-  1. Клонировать репозиторий
-  2. npm install
-  3. npm run serve
-
-GitPages: https://mouset.github.io/Todo-list/
+Working App: https://mouset.github.io/todo-list-build/
 
